@@ -40,6 +40,6 @@ There are many things that I love to do but these are the principal.
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/christian_rvega/)
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/ChristianRVS)
 
-## If you would like play with me
+## If you would like to play with me
 
 [<img src="https://img.shields.io/badge/Xiuny-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />](#)
