@@ -28,7 +28,7 @@ I consider myself a person with learning capacity and with great responsibility 
 
 
 ## Things I love to do
-There are many things that I love to do but these is the principal.
+There are many things that I love to do but these are the principal.
 - Spend time with my family and friends 👪 🍺
 - Develop amazing things 👨‍💻
 - Practice mountaing biking 🚵‍♂️
