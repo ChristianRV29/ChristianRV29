@@ -42,4 +42,4 @@ There are many things that I love to do but these is the principal.
 
 ## If you would like play with me
 
-[<img src="https://img.shields.io/badge/Xiuny-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />](https://www.facebook.com/ChristianRVS)
+[<img src="https://img.shields.io/badge/Xiuny-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />](#)
