@@ -30,9 +30,9 @@ I consider myself a person with learning capacity and with great responsibility 
 ## Things I love to do
 There are many things that I love to do but these are the principal.
 - Spend time with my family and friends 👪 🍺
-- Develop amazing things 👨‍💻
+- Developing amazing things 👨‍💻
 - Practice mountaing biking 🚵‍♂️
-- Play videogames 🎮 
+- Playing videogames 🎮 
 
 ## You can contact me on
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://co.linkedin.com/in/christian-camilo-ria%C3%B1o-vega-8a9691192)
