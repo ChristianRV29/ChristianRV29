@@ -10,6 +10,7 @@ I consider myself a person with learning capacity and with great responsibility 
 [<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />](#)
+[<img src="https://img.shields.io/badge/Tailwind--CSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />](#)
